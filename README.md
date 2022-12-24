@@ -2,7 +2,7 @@
 
 A simple Python class for timing code blocks or functions.
 
-## Usage
+## Usage 
 
 To use the `Timer` class, create an instance of it and call the `start()` method to start the timer. When you want to stop the timer and see the elapsed time, call the `stop()` method.
 
